@@ -6,7 +6,7 @@ Por ejemplo, una posible cadena sería 60 - 20 - 10 - 2.
 
 A Agustín le interesa que la suma de los elementos de la cadena sea lo más grande posible.
 
-Probó todas las cadenas de divisores que comienzan en 60, y descubrió que la cadena de divisores encabezada por 60 con la mayor suma posible de sus elementos es 60 - 30 - 15 - 5 - 1, cuya suma es 101.
+Probó todas las cadenas de divisores que comienzan en 60, y descubrió que la cadena de divisores encabezada por 60 con la mayor suma posible de sus elementos es 60 - 30 - 15 - 5 - 1, cuya suma es 111.
 
 Agustín comenzó con un número a = 60 en el ejemplo anterior, pero la cadena podría comenzar con cualquier entero positivo a.
 
